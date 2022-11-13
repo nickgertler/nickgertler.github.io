@@ -72,7 +72,7 @@ Awarded to the most outstanding graduating student in Communication Studies.
 Concordia University<br>
 Awarded to the graduating student whose efforts and dedication best exemplify the values of the University within the internal Concordia community.
 
-**Campaign for the New Millennium Scholarship (2019)**
+**Campaign for the New Millennium Scholarship (2019)** <br>
 Concordia University Faculty of Arts and Science<br>
 Value: $400
 
