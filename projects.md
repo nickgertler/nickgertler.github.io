@@ -20,9 +20,11 @@ Past and ongoing projects I’ve been involved with.
 
 [Explaining Algorithmic Recommendation][9]
 
-[Digital (Im)materialities Conference][10] (archived)
+[Overcoming the Laws-in-Translation Problem: Comparing Techniques for Translating Legal Texts][10]
 
-[Communications Undergraduate Academic Conference (CUAC)][11]
+[Digital (Im)materialities Conference][11] (archived)
+
+[Communications Undergraduate Academic Conference (CUAC)][12]
 
 [1]:	https://www.amo-oma.ca/en/
 [2]:	https://machineagencies.milieux.ca
@@ -33,5 +35,6 @@ Past and ongoing projects I’ve been involved with.
 [7]:	https://crtc.gc.ca/eng/acrtc/prx/2022gertlerwester.htm
 [8]:	https://www.resiliencemontreal.com
 [9]:	https://www.youtube.com/watch?v=DgAjLI7rudU
-[10]:	https://web.archive.org/web/20220113172126/https://digitalimmaterialities.net/
-[11]:	https://www.mycomsguild.ca/cuac2020
+[10]:	https://doi.org/10.5281/zenodo.7140081
+[11]:	https://web.archive.org/web/20220113172126/https://digitalimmaterialities.net/
+[12]:	https://www.mycomsguild.ca/cuac2020
