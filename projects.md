@@ -8,6 +8,8 @@
 ## Projects
 Past and ongoing projects I’ve been involved with.
 
+[Algorithmic Impact Assessment Hackathon][13]
+
 [Imagining an AI Commons][4]
 
 [Shaping AI][5]
@@ -38,3 +40,4 @@ Past and ongoing projects I’ve been involved with.
 [10]:https://doi.org/10.5281/zenodo.7140081
 [11]:https://web.archive.org/web/20220113172126/https://digitalimmaterialities.net/
 [12]:https://www.mycomsguild.ca/cuac2020
+[13]:https://nog.omg.lol/mozfest
