@@ -8,7 +8,9 @@
 ## Projects
 Past and ongoing projects I’ve been involved with.
 
-[Algorithmic Impact Assessment Hackathon][13]
+[AIA.guide: Get to Know Canada's Algorithmic Impact Assessment][14]
+
+[Algorithmic Impact Assessment Hackathons][13]
 
 [Imagining an AI Commons][4]
 
@@ -40,4 +42,5 @@ Past and ongoing projects I’ve been involved with.
 [10]:https://doi.org/10.5281/zenodo.7140081
 [11]:https://web.archive.org/web/20220113172126/https://digitalimmaterialities.net/
 [12]:https://www.mycomsguild.ca/cuac2020
-[13]:https://nog.omg.lol/mozfest
+[13]:https://nog.url.lol/mozfest
+[14]:https://aia.guide
