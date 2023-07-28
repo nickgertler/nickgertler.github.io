@@ -8,7 +8,7 @@
 ## Projects
 Past and ongoing projects I’ve been involved with.
 
-[AIA.guide: Get to Know Canada's Algorithmic Impact Assessment][14]
+[aia.guide: Get to Know Canada's Algorithmic Impact Assessment][14]
 
 [Algorithmic Impact Assessment Hackathons][13]
 
